@@ -1,0 +1,4 @@
+A Tutorial on energy-based learning by Yann Lecun
+
+http://yann.lecum.com/exdb/publish/pdf/lecum-06.pdf
+film:Mr No Body

@@ -1,0 +1,17 @@
+superwised Machine Learning:
+regression:
+1. linear regression
+2. decesion tree
+3. random forest
+4. naural network
+
+clasification:
+1. logistic regression
+2.  decesion tree
+3. random forest
+4. SVM(support vector machine)
+5. Naive bayes
+
+unsuperwised Machine Learning:
+1. K-means
+2. Hararichal cluster

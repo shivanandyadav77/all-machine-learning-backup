@@ -1,0 +1,36 @@
+A fast learning algorithm of deep belief nets by geoffrey hinton
+Notes on Contrastive Divergence by Oliver Woodford
+Greedy Layer=wise training of Deep Networks by Yoshua Bengio
+the wake-sleep algorithm for unsupervised networks by Geoffrey Hinton
+
+Deep Boltzmann Machines by Ruslan salakhutdinov
+
+conda install -c pytorch pytorch
+
+
+Building Autoencoders in Keras::
+By Francois
+
+link:: https://blog.keras.io/building-autoencoders-in-keras.html
+
+Deep Learning Tutorial -sparse Autoencoder by chris mcCormick 
+Deep Learning Tutorial -sparse Autoencoder by Eric Wilkinson
+K-Sparse Autoencoders by Alireza Makhani
+
+Extracting and Composing Robust Features with Denoising AutoEncoders  by Pascal Vincent et al
+
+Extractive Auto-Encoders:Explict Invariance During Feature Extraction by Salah Rifai et al
+
+Stacked Denoising Autoencoders : learning useful Reprsesentation in deep network with a local denosing criterion
+by Pascal Vincent et al
+
+Reducing the Dimensionality of Data with Neural networks
+
+
+
+ 
+
+
+
+https://grouplens.org/datasets/movielens/
+

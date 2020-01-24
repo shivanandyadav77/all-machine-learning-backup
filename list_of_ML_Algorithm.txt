@@ -1,0 +1,49 @@
+
+1. Data Preprocessing(handling inappropriate data,missing data, null data)
+2. Supervised and UnSupervised   machine learning algorithms like below
+	Regression algorithms :
+		. Simple Linear Regression
+		. Multiple Linear Regression
+		. Polynomial Regression
+		. Support Vector Regression(SVR)
+		. Decision Tree Regression
+		. Random Forest Regression	
+		. Evaluating Model Performances
+		. Regularization Methods.
+	Classification algorithms:
+		. Logistic Regression
+		. K-Nearest Neighbors(K-NN)
+		. Support Vector Machine(SVM)
+		. Kernel SVM
+		. Naive Bayes
+		. Decision Tree Classification
+		. Random Forest Classification
+		. Evaluating Classification Models Performance 
+	Clustering algorithms 
+		. K-Means Clustering
+		. Hierarchical Clustering
+	Reinforcement Learning:
+		. Upper Confidence Bound(UCB)
+		. Thomson Sampling
+	Natural Language Processing(NLP)
+	Deep Learning:
+	   Supervised Deep learning:
+		. Artifical Neural Networks(ANN)
+		. Convolution Neural Networks(CNN)
+		. Recurrent Neural Networks(RNN)
+	    Unsupervised Deep Learning:
+		. Self Organizing Maps (SOM)
+		. Boltzmann Machines (BM)
+		. AutoEncoders (AE)
+	Dimensionality Reduction:
+		Principal Component Analysis(PCA)
+		Linear Discriminant Analysis(LDA)
+		Kernel PCA
+	XGBoost:
+
+			
+
+
+
+ 
+
